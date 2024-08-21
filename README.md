@@ -68,5 +68,5 @@ Doshi, Arham. "Comparative Analysis of Transformer and Seq2Seq Models for NLP Ta
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or collaboration opportunities, feel free to reach out at [your-email@example.com].
+For any questions or collaboration opportunities, feel free to reach out at doshi.arham@yahoo.com.
 ```
