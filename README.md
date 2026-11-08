@@ -2,8 +2,9 @@
 
 **Code for my 2024 paper comparing an LSTM sequence-to-sequence model and a Transformer, both written from scratch in PyTorch, on Hindi to English translation, with a close look at what gets lost when Jain scripture is translated by machine.**
 
-[![Paper DOI](https://img.shields.io/badge/DOI-10.58445%2Frars.1453-blue.svg)](https://doi.org/10.58445/rars.1453)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+**Links:** [Paper](https://doi.org/10.58445/rars.1453) · [Transformer notebook](Transformer%20Model.ipynb) · [LSTM notebook](Seq2Seq2.ipynb) · [Arham Doshi](https://arhamdoshi.dev) · [LinkedIn](https://linkedin.com/in/arhamdoshi)
 
 Arham Doshi, "The Loss in AI Translation: Analyzing LSTM and Transformer Models for Jain Scripture Translation," Research Archive of Rising Scholars, 2024. [doi:10.58445/rars.1453](https://doi.org/10.58445/rars.1453)
 
